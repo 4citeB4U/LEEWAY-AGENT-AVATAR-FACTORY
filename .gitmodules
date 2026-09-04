@@ -1,0 +1,8 @@
+[submodule "vendor/InteractAvatar"]
+	path = vendor/InteractAvatar
+	url = https://github.com/angzong/InteractAvatar.git
+	branch = main
+[submodule "vendor/MultiTalk"]
+	path = vendor/MultiTalk
+	url = https://github.com/MeiGen-AI/MultiTalk.git
+	branch = main
